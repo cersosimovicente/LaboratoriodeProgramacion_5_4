@@ -37,7 +37,7 @@ int main()
     return 0;
 }
 ```
-## Usando estilo C
+## Usando la libreria `cstdlib` (estilo C)
 ```cpp
 #include <cstdlib>
 #include <iostream>
@@ -69,5 +69,6 @@ int main(int argc, char *argv[])
   return 0;
 }
 ```
+## Ejercicios demos usando la clase string
 
 
